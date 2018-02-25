@@ -20,7 +20,7 @@ public class ImageAdapter extends BaseAdapter {
 
     public int getCount() {
         return mThumbIds.length;
-    }
+    } 
 
     public Object getItem(int position) {
         return null;
